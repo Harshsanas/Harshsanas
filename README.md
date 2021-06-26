@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+### A passionate aspiring Full Stack Developer in MERN Stack and shaped by Masai School's.Though I hold Bachelor's degree in Computer Science, I aspire to work as a Full Stack Web Devloper.
 <!--
 **Harshsanas/Harshsanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
