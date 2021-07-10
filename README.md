@@ -1,18 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshit Sanas!</h1>
+<h3 align="center">A MERN Stack Developer from India</h3>
 
+- 🔭 I’m currently working on **projects built on MERN stack**
 
-### A passionate aspiring Full Stack Developer in MERN Stack and shaped by Masai School's.Though I hold Bachelor's degree in Computer Science, I aspire to work as a Full Stack Web Devloper.
-<!--
-**Harshsanas/Harshsanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **JavaScript, React and MongoDb**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can reach me at **harrysanas140@gmail.com**
+
+<ul><h3>Two things to keep private :</h3>
+   <li>Your Next Move.</li><li>Your Income.</li>
+  </ul>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harrysanas140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harrysanas140" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshitsanas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitsanas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harii_sanas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harii_sanas" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshsanas&show_icons=true&locale=en" alt="harshitsanas" /></p>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshsanas&show_icons=true&locale=en&layout=compact" alt="harshsanas" /></p>
+
