@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Harshit Sanas!</h1>
 <h3 align="center">A MERN Stack Developer from India</h3>
 
+
+
+<p align= "center">
+
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+</p>
 - 🔭 I’m currently working on **projects built on MERN stack**
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
