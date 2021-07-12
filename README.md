@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **JavaScript, React and MongoDb**
 
-- 📫 You can reach me at **harrysanas140@gmail.com**
+- 📫 You can reach me at **harrysanas140@gmail.com** & **https://www.linkedin.com/in/harshitsanas/**
 
 <ul><h3>Two things to keep private :</h3>
    <li>Your Next Move.</li><li>Your Income.</li>
