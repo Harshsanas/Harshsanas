@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Sanas!</h1>
-<h3 align="center">A MERN Stack Developer from India, Energetic and aspiring Full Stack Web Developer. Skilled in JavaScript, React, Redux and MongoDB. Experienced in executing projects using React and Redux. Eager to take responsibility and fulfill the organizational objectives within a product based company.</h3>
+<h5 align="center">A MERN Stack Developer from India, Energetic and aspiring Full Stack Web Developer. Skilled in JavaScript, React, Redux and MongoDB. Experienced in executing projects using React and Redux. Eager to take responsibility and fulfill the organizational objectives within a product based company.</h5>
 
 
 
