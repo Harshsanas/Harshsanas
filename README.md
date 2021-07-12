@@ -29,6 +29,11 @@
 <a href="https://www.instagram.com/harii_sanas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harii_sanas" height="30" width="40" /></a>
 </p>
 
+<a href="https://github.com/Harshsanas/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Harshsanas">
+</a>
+<a href="https://github.com/Harshsanas?tab=followers"><img src="https://img.shields.io/github/followers/Harshsanas?label=Followers&style=social" alt="GitHub Badge"></a>
+
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshsanas)](https://github.com/Harshsanas)
 <br/>
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshsanas&show_icons=true&locale=en" alt="harshitsanas" /></p>
