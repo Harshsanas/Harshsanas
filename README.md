@@ -31,8 +31,8 @@
 
 - 📫 You can reach me at **harrysanas140@gmail.com** & **https://www.linkedin.com/in/harshitsanas/**
 
-<h2>Two things to keep private :</h2>
-   <li>Your Next Move.</li><li>Your Income.</li>
+<h2>Things to keep private :</h2>
+Your Next Move & Your Income.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
