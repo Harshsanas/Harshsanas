@@ -11,7 +11,14 @@
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
-- 🔭 I’m currently working on **projects built on MERN stack**
+
+
+<a align="center" href="https://github.com/Harshsanas/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Harshsanas">
+</a>
+<a href="https://github.com/Harshsanas?tab=followers"><img src="https://img.shields.io/github/followers/Harshsanas?label=Followers&style=social" alt="GitHub Badge"></a>
+
+- 🔭 I’m currently working on <h2>projects built on MERN stack</h2>
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
 
@@ -28,11 +35,6 @@
 <a href="https://www.linkedin.com/in/harshitsanas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitsanas" height="30" width="40" /></a>
 <a href="https://www.instagram.com/harii_sanas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harii_sanas" height="30" width="40" /></a>
 </p>
-
-<a href="https://github.com/Harshsanas/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Harshsanas">
-</a>
-<a href="https://github.com/Harshsanas?tab=followers"><img src="https://img.shields.io/github/followers/Harshsanas?label=Followers&style=social" alt="GitHub Badge"></a>
 
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshsanas)](https://github.com/Harshsanas)
 <br/>
