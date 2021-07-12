@@ -29,9 +29,9 @@
 
 - 📫 You can reach me at **harrysanas140@gmail.com** & **https://www.linkedin.com/in/harshitsanas/**
 
-<ul><h2>Two things to keep private :</h2>
+<h2>Two things to keep private :</h2>
    <li>Your Next Move.</li><li>Your Income.</li>
-  </ul>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/harrysanas140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harrysanas140" height="30" width="40" /></a>
