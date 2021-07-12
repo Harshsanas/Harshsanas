@@ -13,11 +13,14 @@
 </p>
 
 
-<a align="center" href="https://github.com/Harshsanas/github-profile-views-counter">
+<p align= "center">
+
+<a href="https://github.com/Harshsanas/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Harshsanas">
 </a>
 <a href="https://github.com/Harshsanas?tab=followers"><img src="https://img.shields.io/github/followers/Harshsanas?label=Followers&style=social" alt="GitHub Badge"></a>
-
+</p>
+    
 - 🔭 I’m currently working on **projects built on MERN stack**
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
