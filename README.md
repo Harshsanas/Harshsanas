@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Sanas!</h1>
-<h3 align="center">A MERN Stack Developer from India</h3>
+<h3 align="center">A MERN Stack Developer from India, Energetic and aspiring Full Stack Web Developer. Skilled in JavaScript, React, Redux and MongoDB. Experienced in executing projects using React and Redux. Eager to take responsibility and fulfill the organizational objectives within a product based company.</h3>
 
 
 
@@ -26,8 +26,6 @@
 - 🔭 I’m currently working on **projects built on MERN stack**
 
 - 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
-
-- 💬 Ask me about **JavaScript, React and MongoDb**
 
 - 📫 You can reach me at **harrysanas140@gmail.com** & **https://www.linkedin.com/in/harshitsanas/**
 
