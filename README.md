@@ -20,6 +20,8 @@
 </a>
 <a href="https://github.com/Harshsanas?tab=followers"><img src="https://img.shields.io/github/followers/Harshsanas?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
+<h2>About me : </h2>
     
 - 🔭 I’m currently working on **projects built on MERN stack**
 
