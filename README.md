@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
 
-<p>
-    Glad to see you all here : </p>
 
 <p align= "center">
 
