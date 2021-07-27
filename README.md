@@ -29,6 +29,8 @@
 
 - 📫 You can reach me at **harrysanas140@gmail.com** & **https://www.linkedin.com/in/harshitsanas/**
 
+- Portfolio : <a href="https://harshit-portfolio.vercel.app/" target="_blank">https://harshit-portfolio.vercel.app/</a>
+
 <h2>Things to keep private :</h2>
 Your Next Move & Your Income.
 
