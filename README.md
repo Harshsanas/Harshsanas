@@ -23,9 +23,9 @@
 
 <h2>About me : </h2>
     
-- 🔭 I’m currently working on **projects built on MERN stack**
+- 🔭 I’m currently working on **projects built using MERN stack**
 
-- 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
+- 🤝 I’m keen to receive guidance on **OpenSource Contributions. Would appreciate any support.🌻**
 
 - 📫 You can reach me at **harrysanas140@gmail.com** & **https://www.linkedin.com/in/harshitsanas/**
 
