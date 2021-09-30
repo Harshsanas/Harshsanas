@@ -40,10 +40,6 @@ Your Next Move & Your Income.
 <a href="https://www.linkedin.com/in/harshitsanas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitsanas" height="30" width="40" /></a>
 <a href="https://www.instagram.com/harii_sanas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harii_sanas" height="30" width="40" /></a>
 </p>
-<br/>
-
-
-    <a href="https://github.com/ssunilkkumar/github-readme-stats"><img alt="Sunil Kumar's Top Languages" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsanas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshsanas&show_icons=true&locale=en" alt="harshitsanas" /></p>
