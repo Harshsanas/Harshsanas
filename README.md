@@ -1,7 +1,6 @@
 <h1 align="center">Hi  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Harshit Sanas!</h1>
 <h5 align="center">An Energetic and aspiring Full Stack Web Developer. Skilled in JavaScript, React, Redux and MongoDB. Experienced in executing projects using React and Redux. Eager to take responsibility and fulfill the organizational objectives within a product based company.</h5>
 
-<a href="https://app.daily.dev/Harshit__Sanas"><img src="https://api.daily.dev/devcards/44a182716f8e4d828795be5a8001e47c.png?r=na5" width="400" alt="Harshit Dattaram Sanas's Dev Card"/></a>
 
 <p align= "center">
 
@@ -46,4 +45,4 @@ Your Next Move & Your Income.
 <br/>
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshsanas&show_icons=true&locale=en&layout=compact" alt="harshsanas" /></
    
-
+<a href="https://app.daily.dev/Harshit__Sanas"><img src="https://api.daily.dev/devcards/44a182716f8e4d828795be5a8001e47c.png?r=na5" width="400" alt="Harshit Dattaram Sanas's Dev Card"/></a>
