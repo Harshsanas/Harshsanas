@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Node-node-green"/>
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+<img src="https://img.shields.io/badge/React Native-React Native-lightgrey"/>
+<img src="https://img.shields.io/badge/Documentum D2-Documentum D2-yellowgreen"/>
 </p>
 
 
