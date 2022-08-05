@@ -47,4 +47,3 @@ Your Next Move & Your Income.
 <br/>
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshsanas&show_icons=true&locale=en&layout=compact" alt="harshsanas" /></
 <br/>   <br/>   <br/>   
-<a href="https://app.daily.dev/Harshit__Sanas"><img src="https://api.daily.dev/devcards/44a182716f8e4d828795be5a8001e47c.png?r=na5" width="400" alt="Harshit Dattaram Sanas's Dev Card"/></a>
