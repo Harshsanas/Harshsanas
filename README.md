@@ -30,7 +30,7 @@
 
 - 📫 You can reach me at **harrysanas140@gmail.com** & **https://www.linkedin.com/in/harshitsanas/**
 
-- Portfolio : <a href="https://harshitsanas-portfolio.vercel.app/" target="_blank">https://harshitsanas-portfolio.vercel.app/</a>
+- Portfolio : <a href="https://harshitsanas.com/" target="_blank">https://harshitsanas.com/</a>
 
 <h2>Things to keep private :</h2>
 Your Next Move & Your Income.
